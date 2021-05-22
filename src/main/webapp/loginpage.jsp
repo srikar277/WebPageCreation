@@ -15,7 +15,7 @@ body {
 </head>
 </body>
 
-   <h1 style="text-align:center" > ^^^^^^ Wedding Memories ^^^^^^</h1>
+   <h1 style="text-align:center" > ^^^^^^ Wedding edited Memories ^^^^^^</h1>
 <form method="Post" action= "Login">
 <table>
 <tr>
